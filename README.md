@@ -1,5 +1,6 @@
 # resources
 Recopilación de recursos sobre programación para convertirte en un ninja :fire: 
+![](http://animationsa2z.com/attachments/Image/ninja/ninja17.gif)
 
 ## Javascript
 - [Las últimas noticias sobre Javascript y la comunidad](https://www.reddit.com/r/javascript/) [ reddit.com ]
