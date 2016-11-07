@@ -22,3 +22,4 @@ Recopilación de recursos sobre programación para convertirte en un ninja :fire
 
 
 ## Otros
+- [Mensajes para comitear con Git by Karma](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
