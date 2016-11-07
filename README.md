@@ -22,4 +22,4 @@ Recopilación de recursos sobre programación para convertirte en un ninja :fire
 
 
 ## Otros
-- [Haskell](http://learnyouahaskell.com/starting-out)
+- [Haskell](http://learnyouahaskell.com/starting-out) [Learn Haskell]
