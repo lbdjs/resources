@@ -9,7 +9,7 @@ Un buen listado de recursos sobre programación para convertirte en un ninja :fi
 
 ## NodeJS
 - [Las últimas noticias sobre NodeJS](https://www.reddit.com/r/node/) [ reddit.com ]
-- [Exprexo: Un servidor de Mocks fácil de usar para desarrolladors Frontend](https://github.com/exprexo/exprexo)
+- [Exprexo: Un servidor de Mocks fácil de usar (Muy bueno para Front-end)](https://github.com/exprexo/exprexo) 
 
 ## Java
 - [Mundo Java](https://www.reddit.com/r/java/) [ reddit.com ]
