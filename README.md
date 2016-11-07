@@ -1,5 +1,5 @@
 # resources
-Un buen listado de recursos sobre programación para convertirte en un ninja :fire: 
+Recopilación de recursos sobre programación para convertirte en un ninja :fire: 
 
 ## Javascript
 - [Las últimas noticias sobre Javascript y la comunidad](https://www.reddit.com/r/javascript/) [ reddit.com ]
