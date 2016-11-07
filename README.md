@@ -3,7 +3,7 @@ Recopilación de recursos sobre programación para convertirte en un ninja :fire
 
 ## Javascript
 - [Las últimas noticias sobre Javascript y la comunidad](https://www.reddit.com/r/javascript/) [ reddit.com ]
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) [importante!]
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) [ Importante! ]
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
